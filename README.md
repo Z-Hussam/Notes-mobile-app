@@ -1,2 +1,2 @@
-### L'application mobile FullStack, développée avec React native en front-end et backend PHP Symfony, permet la création d'un compte, la connexion et déconnexion, l'ajout, la modification et la suppression d'une note 
-### L'objectif de cette application est de s'exercer à utiliserCette React native, visant à s'exercer à la création d'une application utilisant React Native et à apprendre à utiliser ses composants de base.
+### Une application mobile FullStack, construite avec React Native pour le front-end et PHP Symfony pour le back-end, offre des fonctionnalités telles que la création de compte, la gestion de la connexion et déconnexion, ainsi que l'ajout, la modification et la suppression de notes.
+### L'objectif de cette application est de s'entraîner à développer avec React Native, en se familiarisant avec la création d'une application et l'utilisation de ses composants principaux.
