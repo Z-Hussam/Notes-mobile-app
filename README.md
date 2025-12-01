@@ -1,8 +1,8 @@
-# Une application mobile FullStack, construite avec React Native pour le front-end et PHP Symfony pour le back-end, offre des fonctionnalités telles que la création de compte, la gestion de la connexion et déconnexion, ainsi que l'ajout, la modification et la suppression de notes.
-# L'objectif de cette application est de s'entraîner à développer avec React Native, en se familiarisant avec la création d'une application et l'utilisation de ses composants principaux.
+##### Une application mobile FullStack, construite avec React Native pour le front-end et PHP Symfony pour le back-end, offre des fonctionnalités telles que la création de compte, la gestion de la connexion et déconnexion, ainsi que l'ajout, la modification et la suppression de notes.
+##### L'objectif de cette application est de s'entraîner à développer avec React Native, en se familiarisant avec la création d'une application et l'utilisation de ses composants principaux.
 
-# Exécutez les commandes suivantes avant de démarrer le projet
-# Configuration JWT (Requise après le clonage)
+###### Exécutez les commandes suivantes avant de démarrer le projet
+###### Configuration JWT (Requise après le clonage)
 
 - cd ./front-end-notes-App/   
 - npm install 
