@@ -15,7 +15,7 @@ export async function loginUser(credentials) {
     });
     console.log('response',response);
     if (!response.ok) {
-      throw new Error( "Failed to login . check your credentiales ",response);
+      throw new Error( "Impossible de se connecter. Veuillez vérifier vos identifiants. ",response);
     }
     const data = await response.json();
 

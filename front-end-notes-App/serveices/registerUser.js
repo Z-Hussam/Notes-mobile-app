@@ -19,7 +19,7 @@ export async function registerUser(credentials) {
 
     if (!response.ok) {
        const errData = await response.json();
-      throw new Error(errData.detail || "Failed to create user account");
+      throw new Error(errData.detail || "Échec de la création du compte utilisateur");
     }
     const data = await response.json();
     return data;

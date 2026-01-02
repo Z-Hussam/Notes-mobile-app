@@ -18,7 +18,7 @@ export async function updateNoteAPI(id, newText) {
   });
   // Check if request succeeded
   if (!response.ok) {
-    throw new Error(`Failed to update note: ${response.status}`);
+    throw new Error(`Échec de la mise à jour de la note: ${response.status}`);
   }
 
   // If the API returns 204 (No Content), don't try to parse JSON

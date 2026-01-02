@@ -23,7 +23,7 @@ export async function createNote(obj)
     });
 
     // Check if reposns is ok
-    if(!response.ok) throw new Error('Failer to add note');
+    if(!response.ok) throw new Error("Impossible d'ajouter la note");
 
     //  parses the body into a JavaScript object 
     const data = await response.json();

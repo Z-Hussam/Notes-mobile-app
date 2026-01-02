@@ -203,7 +203,7 @@ const styles = StyleSheet.create({
   },
 
   addBtn: {
-    backgroundColor: "#4169E1", // iOS blue (you can change)
+    backgroundColor: "#081bc6ff", // iOS blue (you can change)
     width: 66,
     height: 66,
     borderRadius: 38,

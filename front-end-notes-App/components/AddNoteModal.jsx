@@ -104,7 +104,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
   cancelBtnText: {
-    fontSize: 16,
+    fontSize: 13,
     color: '#333',
     fontWeight: '500',
   },
@@ -117,7 +117,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
   saveBtnText: {
-    fontSize: 16,
+    fontSize: 13,
     color: '#fff',
     fontWeight: '600',
   },

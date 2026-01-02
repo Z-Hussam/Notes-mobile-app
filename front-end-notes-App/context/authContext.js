@@ -61,7 +61,7 @@ const register = async (obj) => {
 
     return data;
   } catch (error) {
-    console.error("Registration failed:", error);
+    console.error("L'inscription a échoué:", error);
     throw error;
   }
 };
@@ -74,7 +74,7 @@ const register = async (obj) => {
       const decoded = jwtDecode(data.token);
       setUser(decoded); // this sets user after login
     } catch (error) {
-      console.error("Login failed:", error);
+      console.error("La connexion a échoué:", error);
       throw error;
     }
   };
